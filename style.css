@@ -32,3 +32,12 @@
 .generate:hover{
     background-color: rgb(253, 215, 221);
 }
+@media only screen and (max-width: 500px) {
+    .box {
+      font-size: 20px;
+      margin: 2% 20%
+    }
+    .generate{
+        margin-top: 20px;
+    }
+  }
